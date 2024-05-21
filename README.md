@@ -1,10 +1,10 @@
-# Colorstack Website for Kennesaw State University
+# ColorStack at Kennesaw State University
 
-Welcome to the Colorstack website project for Kennesaw State University! This repository contains the code and documentation for developing a Colorstack website aimed at enhancing student engagement and providing useful resources.
+Welcome to the ColorStack website project for Kennesaw State University! This repository contains the code and documentation for developing a Colorstack website aimed at enhancing student engagement and providing useful resources.
 
 ## Table of Contents
 
-- [Colorstack Website for Kennesaw State University](#colorstack-website-for-kennesaw-state-university)
+- [ColorStack at Kennesaw State University](#colorstack-at-kennesaw-state-university)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Features](#features)
@@ -17,7 +17,7 @@ Welcome to the Colorstack website project for Kennesaw State University! This re
 
 ## Project Overview
 
-This project aims to create a Colorstack website for Kennesaw State University. The website will serve as a platform for students to access various resources, participate in events, and connect with the community.
+This project aims to create a ColorStack website for Kennesaw State University. The website will serve as a platform for students to access various resources, participate in events, and connect with the community.
 
 ## Features
 
