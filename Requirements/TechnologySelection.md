@@ -10,7 +10,7 @@
 
 ### Frameworks: [Node.js](https://nodejs.org/docs/latest/api/), [Express.js](https://www.geeksforgeeks.org/express-js/)
 
-### Operating Environment
+### Operating Environment: Web
 This is a website and should be accessible through all 
 web browsers and applications on both desktop computers 
 and mobile devices.
