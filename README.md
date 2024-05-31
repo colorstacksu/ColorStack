@@ -54,8 +54,6 @@ This project is being lead by the memebrs of the Colorstack chapter at Kennesaw 
 
 To get a local copy of the project up and running, follow these simple steps.
 
-<br>
-
 ### Prerequisites
 
 - Node.js (v14.x or higher)
