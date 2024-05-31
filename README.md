@@ -7,7 +7,7 @@ Welcome to the ColorStack website project for Kennesaw State University! This re
 - [ColorStack at Kennesaw State University](#colorstack-at-kennesaw-state-university)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
-  - [Team]
+  - [Team](#team)
   - [Features](#features)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -20,11 +20,25 @@ Welcome to the ColorStack website project for Kennesaw State University! This re
 
 This project aims to create a ColorStack website for Kennesaw State University. The website will serve as a platform for students to access various resources, participate in events, and connect with the community.
 
+<br>
+
 ## Team
+
 This project is being lead by the memebrs of the Colorstack chapter at Kennesaw State University. Here are the team divisions and roles:
 
-### Project Manager/ Project Lead: 
+### Project Manager/Project Lead:
 
+### Front End Dev Team | Team Lead(s):
+
+#### Members:
+
+<br>
+
+### Backend End Dev Team | Team Lead(s):
+
+#### Members:
+
+<br>
 
 ## Features
 
@@ -34,9 +48,13 @@ This project is being lead by the memebrs of the Colorstack chapter at Kennesaw 
 - **Community Forum**: Engage in discussions and connect with other students.
 - **Responsive Design**: Optimized for all devices, including mobile and desktop.
 
+<br>
+
 ## Getting Started
 
 To get a local copy of the project up and running, follow these simple steps.
+
+<br>
 
 ### Prerequisites
 
@@ -44,31 +62,36 @@ To get a local copy of the project up and running, follow these simple steps.
 - npm (v6.x or higher)
 - Git
 
+<br>
+
 ### Installation
 
 1. **Clone the repository**
-    ```bash
-    git clone https://github.com/yourusername/colorstack-ksu.git
-    ```
+   ```bash
+   git clone https://github.com/yourusername/colorstack-ksu.git
+   ```
 2. **Navigate to the project directory**
-    ```bash
-    cd colorstack-ksu
-    ```
+   ```bash
+   cd colorstack-ksu
+   ```
 3. **Install dependencies**
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
+
+<br>
 
 ### Usage
 
 1. **Start the development server**
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 2. **Open your browser and navigate to**
-    ```
-    http://localhost:3000
-    ```
+   ```
+   http://localhost:3000
+   ```
+<br>
 
 ## Contributing
 
@@ -83,6 +106,7 @@ We welcome contributions from the community! To contribute to this project, plea
 
 Please ensure your code adheres to our coding standards and includes relevant tests.
 
+<br>
 
 ## Contact
 
