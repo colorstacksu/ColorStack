@@ -26,19 +26,21 @@ This project aims to create a ColorStack website for Kennesaw State University. 
 
 This project is being lead by the memebrs of the Colorstack chapter at Kennesaw State University. Here are the team divisions and roles:
 
-### Project Manager/Project Lead:
+### Project Manager/Project Lead: Geovanni Immanol Cuevas
 
-### Front End Dev Team | Team Lead(s):
-
-#### Members:
-
-<br>
-
-### Backend End Dev Team | Team Lead(s):
+### Front End Dev Team | Team Lead(s): Helena Patino Cruz & Lisbeth Martinez
 
 #### Members:
 
-<br>
+- Elle Jackson
+- 
+
+### Backend End Dev Team | Team Lead(s): Constant Nortey & Dennise Gonzalez
+
+#### Members:
+
+- Victor Urey
+- 
 
 ## Features
 
