@@ -7,6 +7,7 @@ Welcome to the ColorStack website project for Kennesaw State University! This re
 - [ColorStack at Kennesaw State University](#colorstack-at-kennesaw-state-university)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
+  - [Team]
   - [Features](#features)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -18,6 +19,12 @@ Welcome to the ColorStack website project for Kennesaw State University! This re
 ## Project Overview
 
 This project aims to create a ColorStack website for Kennesaw State University. The website will serve as a platform for students to access various resources, participate in events, and connect with the community.
+
+## Team
+This project is being lead by the memebrs of the Colorstack chapter at Kennesaw State University. Here are the team divisions and roles:
+
+### Project Manager/ Project Lead: 
+
 
 ## Features
 
